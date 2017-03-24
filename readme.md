@@ -1,0 +1,1 @@
+### GASP文件描述动画库地址: [https://greensock.com](https://greensock.com)1. JS文件cdn地址 [https://cdnjs.com/libraries/gsap](https://cdnjs.com/libraries/gsap)2. JS插件在 [codepen.io](http://codepen.io/GreenSock/pen/OPqpRJ) 上的地址3. 这里仅仅记录学习过程中用到的插件4. 其他使用与本人无关
